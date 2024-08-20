@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNet.Mvc" Version="5.3.0" />
+    <PackageReference Include="Microsoft.AspNet.Razor" Version="3.3.0" />
+    <PackageReference Include="Microsoft.AspNet.WebPages" Version="3.3.0" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="8.0.2" />
+    <PackageReference Include="MongoDB.Driver" Version="2.28.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.Extensions.Options">
+      <HintPath>C:\Program Files\dotnet\packs\Microsoft.AspNetCore.App.Ref\3.0.0-preview8.19405.7\ref\netcoreapp3.0\Microsoft.Extensions.Options.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Annotations">
+      <HintPath>C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\3.0.0-preview8-28405-07\ref\netcoreapp3.0\System.ComponentModel.Annotations.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

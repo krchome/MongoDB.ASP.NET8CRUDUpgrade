@@ -1,0 +1,56 @@
+﻿/* General Styles */
+html body {
+    background-color: #abdfaf; /* Light gray background */
+    color: red !important; /* Ensure text color is red */
+    font-family: Arial, sans-serif;
+}
+{
+  font-family: Arial, sans-serif;
+}
+{
+    font-family: Tahoma, sans-serif;
+}
+
+h1 {
+    color: #808080; /* Bootstrap primary color */
+}
+
+.table {
+    border: 1px solid #dee2e6; /* Table border */
+    border-radius: 0.25rem; /* Rounded corners for the table */
+    color: red !important;
+}
+
+    .table th, .table td {
+        padding: 1rem; /* Padding for table cells */
+    }
+
+a {
+    color: #0366d6; /* Link color */
+}
+
+    a:hover {
+        color: #024b72; /* Darker color on hover */
+    }
+
+.btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #343a40; /* Dark footer background */
+    color: white; /* Footer text color */
+    text-align: center;
+    padding: 1rem;
+}

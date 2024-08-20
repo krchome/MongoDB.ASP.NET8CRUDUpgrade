@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = MongoDb.ASP.NETCore3CRUDSample.DataAccess
+build_property.ProjectDir = D:\OneDrive\OneDrive\Udemy\instructor\Projects\MongoDB-Course\MVC_Application_Complete\MongoDb.ASP.NETCore3CRUDSample.DataAccess\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

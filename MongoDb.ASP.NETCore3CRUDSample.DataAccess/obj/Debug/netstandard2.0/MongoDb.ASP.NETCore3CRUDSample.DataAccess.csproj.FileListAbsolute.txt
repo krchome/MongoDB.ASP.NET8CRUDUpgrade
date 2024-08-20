@@ -1,0 +1,2 @@
+G:\Udemy\Instructor\ASP.NET Core\MongoDb_with_ASP.NET_Core3\Projects\Draft\MongoDb.ASP.NETCore3CRUDSample.DataAccess\obj\Debug\netstandard2.0\MongoDb.ASP.NETCore3CRUDSample.DataAccess.AssemblyInfoInputs.cache
+G:\Udemy\Instructor\ASP.NET Core\MongoDb_with_ASP.NET_Core3\Projects\Draft\MongoDb.ASP.NETCore3CRUDSample.DataAccess\obj\Debug\netstandard2.0\MongoDb.ASP.NETCore3CRUDSample.DataAccess.AssemblyInfo.cs
