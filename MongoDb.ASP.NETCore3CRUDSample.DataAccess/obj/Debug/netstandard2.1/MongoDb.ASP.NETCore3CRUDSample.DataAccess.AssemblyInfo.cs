@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MongoDb.ASP.NETCore3CRUDSample.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76dc0fb5a7de02cf00a4049ce4bb4709b29f5160")]
 [assembly: System.Reflection.AssemblyProductAttribute("MongoDb.ASP.NETCore3CRUDSample.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MongoDb.ASP.NETCore3CRUDSample.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

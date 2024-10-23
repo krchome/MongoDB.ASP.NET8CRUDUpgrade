@@ -1389,30 +1389,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kaushik\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\deved\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive\\OneDrive\\Udemy\\instructor\\Projects\\MongoDB-Course\\MVC_Application_Complete\\MongoDb.ASP.NETCore3CRUDSample.DataAccess\\MongoDb.ASP.NETCore3CRUDSample.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\deved\\source\\repos\\MongoDB.ASP.NET8CRUDUpgrade\\MongoDb.ASP.NETCore3CRUDSample.DataAccess\\MongoDb.ASP.NETCore3CRUDSample.DataAccess.csproj",
       "projectName": "MongoDb.ASP.NETCore3CRUDSample.DataAccess",
-      "projectPath": "D:\\OneDrive\\OneDrive\\Udemy\\instructor\\Projects\\MongoDB-Course\\MVC_Application_Complete\\MongoDb.ASP.NETCore3CRUDSample.DataAccess\\MongoDb.ASP.NETCore3CRUDSample.DataAccess.csproj",
-      "packagesPath": "C:\\Users\\kaushik\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive\\OneDrive\\Udemy\\instructor\\Projects\\MongoDB-Course\\MVC_Application_Complete\\MongoDb.ASP.NETCore3CRUDSample.DataAccess\\obj\\",
+      "projectPath": "C:\\Users\\deved\\source\\repos\\MongoDB.ASP.NET8CRUDUpgrade\\MongoDb.ASP.NETCore3CRUDSample.DataAccess\\MongoDb.ASP.NETCore3CRUDSample.DataAccess.csproj",
+      "packagesPath": "C:\\Users\\deved\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\deved\\source\\repos\\MongoDB.ASP.NET8CRUDUpgrade\\MongoDb.ASP.NETCore3CRUDSample.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\kaushik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\deved\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -1420,8 +1415,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.cloudsmith.io/orchardcore/preview/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.1": {
@@ -1481,7 +1475,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   },

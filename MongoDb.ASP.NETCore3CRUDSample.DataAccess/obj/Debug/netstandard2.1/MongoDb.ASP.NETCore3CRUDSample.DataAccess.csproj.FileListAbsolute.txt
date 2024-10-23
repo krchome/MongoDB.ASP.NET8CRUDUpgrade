@@ -59,3 +59,14 @@ D:\OneDrive\OneDrive\Udemy\instructor\Projects\MongoDB-Course\MVC_Application_Co
 D:\OneDrive\OneDrive\Udemy\instructor\Projects\MongoDB-Course\MVC_Application_Complete\MongoDb.ASP.NETCore3CRUDSample.DataAccess\obj\Debug\netstandard2.1\MongoDb.ASP.NETCore3CRUDSample.DataAccess.csproj.CoreCompileInputs.cache
 D:\OneDrive\OneDrive\Udemy\instructor\Projects\MongoDB-Course\MVC_Application_Complete\MongoDb.ASP.NETCore3CRUDSample.DataAccess\obj\Debug\netstandard2.1\MongoDb.ASP.NETCore3CRUDSample.DataAccess.dll
 D:\OneDrive\OneDrive\Udemy\instructor\Projects\MongoDB-Course\MVC_Application_Complete\MongoDb.ASP.NETCore3CRUDSample.DataAccess\obj\Debug\netstandard2.1\MongoDb.ASP.NETCore3CRUDSample.DataAccess.pdb
+C:\Users\deved\source\repos\MongoDB.ASP.NET8CRUDUpgrade\MongoDb.ASP.NETCore3CRUDSample.DataAccess\bin\Debug\netstandard2.1\MongoDb.ASP.NETCore3CRUDSample.DataAccess.deps.json
+C:\Users\deved\source\repos\MongoDB.ASP.NET8CRUDUpgrade\MongoDb.ASP.NETCore3CRUDSample.DataAccess\bin\Debug\netstandard2.1\MongoDb.ASP.NETCore3CRUDSample.DataAccess.dll
+C:\Users\deved\source\repos\MongoDB.ASP.NET8CRUDUpgrade\MongoDb.ASP.NETCore3CRUDSample.DataAccess\bin\Debug\netstandard2.1\MongoDb.ASP.NETCore3CRUDSample.DataAccess.pdb
+C:\Users\deved\source\repos\MongoDB.ASP.NET8CRUDUpgrade\MongoDb.ASP.NETCore3CRUDSample.DataAccess\obj\Debug\netstandard2.1\MongoDb.ASP.NETCore3CRUDSample.DataAccess.csproj.AssemblyReference.cache
+C:\Users\deved\source\repos\MongoDB.ASP.NET8CRUDUpgrade\MongoDb.ASP.NETCore3CRUDSample.DataAccess\obj\Debug\netstandard2.1\MongoDb.ASP.NETCore3CRUDSample.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deved\source\repos\MongoDB.ASP.NET8CRUDUpgrade\MongoDb.ASP.NETCore3CRUDSample.DataAccess\obj\Debug\netstandard2.1\MongoDb.ASP.NETCore3CRUDSample.DataAccess.AssemblyInfoInputs.cache
+C:\Users\deved\source\repos\MongoDB.ASP.NET8CRUDUpgrade\MongoDb.ASP.NETCore3CRUDSample.DataAccess\obj\Debug\netstandard2.1\MongoDb.ASP.NETCore3CRUDSample.DataAccess.AssemblyInfo.cs
+C:\Users\deved\source\repos\MongoDB.ASP.NET8CRUDUpgrade\MongoDb.ASP.NETCore3CRUDSample.DataAccess\obj\Debug\netstandard2.1\MongoDb.ASP.NETCore3CRUDSample.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\deved\source\repos\MongoDB.ASP.NET8CRUDUpgrade\MongoDb.ASP.NETCore3CRUDSample.DataAccess\obj\Debug\netstandard2.1\MongoDb.ASP.NETCore3CRUDSample.DataAccess.sourcelink.json
+C:\Users\deved\source\repos\MongoDB.ASP.NET8CRUDUpgrade\MongoDb.ASP.NETCore3CRUDSample.DataAccess\obj\Debug\netstandard2.1\MongoDb.ASP.NETCore3CRUDSample.DataAccess.dll
+C:\Users\deved\source\repos\MongoDB.ASP.NET8CRUDUpgrade\MongoDb.ASP.NETCore3CRUDSample.DataAccess\obj\Debug\netstandard2.1\MongoDb.ASP.NETCore3CRUDSample.DataAccess.pdb

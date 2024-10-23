@@ -29,4 +29,5 @@ namespace MongoDb.ASP.NETCore3CRUDSample.DataAccess.Models
         [Range(1000, 10000)]
         public int Salary { get; set; }
     }
+   
 }
